@@ -7,3 +7,7 @@ def array_with_two_elements
   array = ["Bob's","Burgers"]
   array
 end
+
+def first_element(array)
+  array
+end
